@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  💬 Gifted Chat
+  💬 Gifted Chat - Next Riot Fork
 </h3>
 <p align="center">
   The most complete chat UI for React Native <br/>
